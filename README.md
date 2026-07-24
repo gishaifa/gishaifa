@@ -1,4 +1,4 @@
-# 🌍  Remote Sensing & GeoAI Consultant- Google Earth Engine - Dr. Haifa AL Mohammad
+# 🌍  Remote Sensing, GIS & GeoAI Consultant- GEE - Dr. Haifa AL Mohammad
 
 Welcome to my GitHub profile!  I am a consultant specializing in leveraging **Google Earth Engine (GEE)**, **Remote Sensing, GIS**, and **Machine Learning** for environmental monitoring, land resource management, and precision agriculture.
 
